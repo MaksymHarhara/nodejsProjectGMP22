@@ -1,0 +1,26 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymHarhara/nodejsProject.git"
+  },
+  "author": "Maksym Harhara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymHarhara/nodejsProject/issues"
+  },
+  "homepage": "https://github.com/MaksymHarhara/nodejsProject#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "eslint": "^8.16.0"
+  }
+}
